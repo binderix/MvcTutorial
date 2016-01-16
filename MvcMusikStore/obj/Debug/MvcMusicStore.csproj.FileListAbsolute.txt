@@ -1,0 +1,7 @@
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\bin\MvcMusikStore.dll
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\bin\MvcMusikStore.pdb
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\bin\EntityFramework.dll
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\bin\EntityFramework.xml
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\obj\Debug\MvcMusikStore.dll
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\obj\Debug\MvcMusikStore.pdb
+C:\Home2014\030_Programming\23_MVC_Samples\04_MvcMusicStore2\MvcMusikStore\MvcMusikStore\obj\Debug\MvcMusicStore.csprojResolveAssemblyReference.cache
